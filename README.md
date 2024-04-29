@@ -29,10 +29,7 @@ You can download and extract the zip files to access the HTML files. Feel free t
 
 Contributions are welcome! If you have any improvements or additional examples to add, please fork this repository, make your changes, and submit a pull request. Make sure to follow the project's guidelines and coding standards.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
----
 
 Feel free to customize this template according to your project's specifics, and add any additional sections or information you find relevant.
