@@ -11,15 +11,15 @@ web_internship projects is a collection of HTML files that serve as examples for
 
 The `level1 ` includes the following HTML files:
 
-- `landingpage.html`: This file represents a basic landing page layout.
-- `calculator.html`: This file demonstrates a simple calculator implemented using HTML and possibly JavaScript.
-- `portfolio.html`: This file showcases a portfolio page layout.
+- `landing.html`: This file represents a basic landing page layout.
+- `calc.html`: This file demonstrates a simple calculator implemented using HTML and possibly JavaScript.
+- `portdolio.html`: This file showcases a portfolio page layout.
 
 ### Level 2
 
 The `level2' includes the following HTML file:
 
-- `tributepage.html`: This file presents a tribute page layout, typically used to pay homage to a person, group, or event.
+- `admire.html`: This file presents a tribute page layout, typically used to pay homage to a person, group, or event.
 
 ## Usage
 
